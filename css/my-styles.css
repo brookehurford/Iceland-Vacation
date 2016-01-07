@@ -1,3 +1,31 @@
+body {
+
+}
+
+
 .jumbotron {
-  align: center;
+  background-color: #C0D9D9;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.container footer {
+  padding: 70px;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: none
+}
+
+.glyphicon {
+  font-size: 3em;
+  display: block;
+  text-align: center;
+
 }
