@@ -1,16 +1,7 @@
-body {
-
-}
-
-
 .jumbotron {
   background-color: #C0D9D9;
   text-align: center;
   padding-top: 70px;
-}
-
-.text-align-center {
-  text-align: center;
 }
 
 .container footer {
@@ -23,9 +14,27 @@ body {
   border: none
 }
 
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+  border: none
+}
+
 .glyphicon {
   font-size: 3em;
   display: block;
   text-align: center;
 
+}
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators .active {
+  background-color: black;
+}
+
+.carousel-indicators li {
+  border-color: black;
 }
